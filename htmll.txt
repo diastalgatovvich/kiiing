@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Менің портфолием</title>
+</head>
+<body>
+
+    <p>Аты: Диас Талғатұлы</p>
+    <p>Группа: Цифрлық тарих </p>
+    <p>Штрих-код: 6B01609</p>
+
+    <a href="https://eginbaydias001.wixsite.com/my-site-1">Электрондық портфолия</a>
+    <img src="https://static.wixstatic.com/media/c9f5ff_2e999234a2e54465af4b8b75742b7d16~mv2.jpeg/v1/fill/w_834,h_1064,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/WhatsApp%20Image%202024-03-11%20at%2009_29_13.jpeg">
+
+</body>
+</html>
